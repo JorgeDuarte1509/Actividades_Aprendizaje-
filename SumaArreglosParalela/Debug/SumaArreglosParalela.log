@@ -1,0 +1,10 @@
+﻿  SumaArreglosParalela.cpp
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(24,12): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(25,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(28,30): error C2017: secuencia de escape no válida
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(29,2): error C3861: 'shared': no se encontró el identificador
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(29,27): error C2143: error de sintaxis: falta ';' delante de 'private'
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(29,27): error C2059: error de sintaxis: 'private'
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(32,16): warning C4552: "<": el resultado de la expresión no se usa
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(32,24): error C2059: error de sintaxis: ')'
+C:\Users\jorgeduarte\source\repos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(33,3): error C2146: error de sintaxis: falta ';' delante del identificador 'c'
